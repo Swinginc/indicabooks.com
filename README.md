@@ -1,2 +1,2 @@
 # okrabooks.github.io
-Enjoy the collective series of Harry Potter
+Enjoy the collective Editions of Harry Potter
