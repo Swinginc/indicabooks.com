@@ -1,0 +1,42 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    }
+    .hero{
+        height: 100vh;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.342),rgba(0, 0, 0, 0)),url(images/harry\ fly.jpg);
+        background-position: left;
+        background-size: cover;
+        overflow-x: hidden;
+        position: relative;
+    }
+    .nav-bar{
+        display: flex;
+        padding: 40px 75px;
+    }
+   
+ 
+    .btn{
+      padding: 10px 20px;
+      border: 0;
+      background: red;
+      font-weight: bold;  
+      cursor: pointer;
+    }
+    .nav-links .btn{
+        float: right;
+    }
+    .banner-title{
+        margin: 300px 60px;
+        color: white;
+    }
+    .banner-title h1{
+        font-size: 45px;
+        margin-bottom: 30px;
+    
+    }
+    .banner-title h1 span{
+    color: red;
+    }
